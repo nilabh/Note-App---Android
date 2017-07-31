@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="action_delete">Delete Note</string>
+    <string name="sample_title">Sample Note</string>
+    <string name="hint_title">Note Title *</string>
+    <string name="hint_desc">Note description *</string>
+    <string name="sample_desc">This is a sample note with elaborate explanation and may contains instruction on how to add a note </string>
+</resources>
